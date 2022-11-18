@@ -27,7 +27,7 @@
     "nock": "^11.4.0",
     "prettier": "^1.18.2",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.9",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.8.2"
   },
   "jest": {
